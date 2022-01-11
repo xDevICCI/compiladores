@@ -2,7 +2,8 @@
 
 INSTRUCCIONES PARA EJECUTAR:
 
-#flex .l /t
+#flex .l
+
 
 
 #yacc yac.y
